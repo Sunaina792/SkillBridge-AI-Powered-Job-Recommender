@@ -34,7 +34,7 @@ Perfect for freshers, students, and professionals looking to align their skillse
 
 | Resume Upload & Skill Extraction | Job Recommendations |
 |----------------------------------|----------------------|
-| ![upload](resume-manual.png)     | ![match](job-role.png) |
+| ![upload](manual-skill.png)     | ![match](job-preview.png) |
 
 ---
 
