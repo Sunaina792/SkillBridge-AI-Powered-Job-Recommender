@@ -13,7 +13,6 @@ Perfect for freshers, students, and professionals looking to align their skillse
 - 📊 Match Score with color-coded badges
 - 🧠 Skill Gap Analysis (matched vs missing skills)
 - 📚 Learning suggestions for missing skills
-- 🌗 Dark Mode ready (with customized styles)
 - 📥 Download analysis as PDF (optional)
 - 🔁 Suggests career paths based on skills
 
@@ -71,4 +70,5 @@ Stored in a .pkl file: ```job_roles_dataset.pkl```
 
  ## 🙋‍♀️ Author
 Made with 💖 by Sunaina
+
 
