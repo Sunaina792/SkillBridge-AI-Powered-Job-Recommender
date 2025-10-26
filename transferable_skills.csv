@@ -1,0 +1,27 @@
+Core Skill,Industry 1,Industry 2,Transfer Application,Similarity Score
+Communication,Technology,Healthcare,"Patient communication, technical documentation",0.85
+Communication,Finance,Marketing,"Client relations, campaign messaging",0.90
+Problem Solving,Engineering,Consulting,"Process optimization, strategic planning",0.88
+Problem Solving,Healthcare,Technology,"System troubleshooting, software development",0.82
+Leadership,Education,Corporate,"Team management, project leadership",0.92
+Leadership,Non-profit,Healthcare,"Program management, patient advocacy",0.87
+Data Analysis,Finance,Healthcare,"Financial modeling, patient data analysis",0.80
+Data Analysis,Retail,Technology,"Sales analytics, user behavior analysis",0.85
+Project Management,Construction,Technology,"Timeline coordination, software development",0.83
+Project Management,Event Planning,Marketing,"Campaign execution, product launches",0.89
+Customer Service,Retail,Technology,"Client support, technical assistance",0.84
+Customer Service,Healthcare,Finance,"Patient care, financial counseling",0.78
+Sales,Negotiation,Real Estate,"Deal closing, client acquisition",0.91
+Sales,Technology,Healthcare,"Solution selling, medical device sales",0.86
+Marketing,Digital Media,Entertainment,"Content creation, audience engagement",0.88
+Marketing,Non-profit,Education,"Awareness campaigns, educational outreach",0.85
+Research,Academia,Pharmaceutical,"Scientific studies, drug development",0.90
+Research,Market Research,Technology,"Consumer insights, product development",0.87
+Writing,Journalism,Corporate,"Content creation, business communication",0.89
+Writing,Technical,Healthcare,"Medical writing, patient education",0.83
+Design,Creative Arts,Technology,"UI/UX design, product aesthetics",0.86
+Design,Architecture,Manufacturing,"Product design, structural planning",0.84
+Financial Analysis,Accounting,Banking,"Financial reporting, risk assessment",0.93
+Financial Analysis,Healthcare,Real Estate,"Cost analysis, property valuation",0.81
+Human Resources,Corporate,Non-profit,"Talent acquisition, volunteer management",0.88
+Human Resources,Education,Healthcare,"Staff training, personnel management",0.85
