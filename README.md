@@ -14,9 +14,9 @@ A machine learning-powered application that recommends job roles based on user s
 
 ## 📸 Screenshots
 
-| Dashboard | Job Recommendations |
+| Dashboard | Features|
 |----------------------------------|----------------------|
-| ![upload](image.png)     | ![match](job-preview.png) |
+| ![upload](image.png)     | ![match](image2.png) |
 
 ## 🚀 Getting Started
 
@@ -116,4 +116,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Thanks to all contributors who have helped build and improve this system
 - Dataset sources and learning platform partners
+
 
