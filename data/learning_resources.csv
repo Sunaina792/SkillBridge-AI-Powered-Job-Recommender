@@ -1,0 +1,36 @@
+Skill,Resource Name,Resource Type,Platform,URL,Difficulty Level,Duration
+Python,Python for Everybody,Course,Coursera,https://www.coursera.org/specializations/python,Beginner,3 months
+Python,Python Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/python-essential-training-18463956,Intermediate,4 hours
+SQL,SQL for Data Science,Course,Coursera,https://www.coursera.org/learn/sql-for-data-science,Beginner,1 month
+SQL,MySQL Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/mysql-essential-training-2018,Intermediate,4 hours
+Excel,Excel Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/excel-essential-training-2019,Beginner,2 hours
+Excel,Advanced Excel Formulas & Functions,Course,LinkedIn Learning,https://www.linkedin.com/learning/advanced-excel-formulas-and-functions-2,Advanced,2 hours
+Machine Learning,Machine Learning,Course,Coursera,https://www.coursera.org/learn/machine-learning,Intermediate,3 months
+Data Visualization,Data Visualization with Python,Course,Coursera,https://www.coursera.org/learn/python-data-visualization,Beginner,1 month
+HTML,HTML Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/html-essential-training-4,Beginner,2 hours
+CSS,CSS Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/css-essential-training-3,Beginner,2 hours
+JavaScript,JavaScript Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/javascript-essential-training-3,Intermediate,5 hours
+React,React.js Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/react-js-essential-training-2,Intermediate,4 hours
+Project Management,Project Management Principles,Course,LinkedIn Learning,https://www.linkedin.com/learning/project-management-foundations-4,Beginner,2 hours
+Leadership,Leadership Foundations,Course,LinkedIn Learning,https://www.linkedin.com/learning/leadership-foundations-3,Beginner,1 hour
+Communication,Communication Foundations,Course,LinkedIn Learning,https://www.linkedin.com/learning/communication-foundations-2,Beginner,1 hour
+SEO,SEO Training Course,Course,Moz,https://moz.com/learn/seo,Intermediate,4 weeks
+Digital Marketing,Digital Marketing Specialization,Course,Coursera,https://www.coursera.org/specializations/digital-marketing,Beginner,6 months
+Financial Modeling,Financial Modeling Fundamentals,Course,Corporate Finance Institute,https://corporatefinanceinstitute.com/courses/financial-modeling-skills/,Intermediate,3 weeks
+Copywriting,Content Marketing Copywriting,Course,HubSpot Academy,https://academy.hubspot.com/courses/content-marketing,Intermediate,3 hours
+Adobe Photoshop,Photoshop Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/photoshop-2021-essential-training,Intermediate,5 hours
+Adobe Illustrator,Illustrator Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/illustrator-cc-2021-essential-training,Intermediate,5 hours
+Sales,Closing Business,Course,LinkedIn Learning,https://www.linkedin.com/learning/closing-business-2,Intermediate,1 hour
+Customer Service,Customer Service Fundamentals,Course,LinkedIn Learning,https://www.linkedin.com/learning/customer-service-foundations-2,Beginner,1 hour
+Event Planning,Event Planning Basics,Course,Coursera,https://www.coursera.org/learn/event-planning,Intermediate,4 weeks
+Legal Research,Legal Research and Writing,Course,Coursera,https://www.coursera.org/learn/legal-research,Beginner,4 weeks
+Teaching,Foundations of Teaching,Course,Coursera,https://www.coursera.org/learn/teaching,Intermediate,4 weeks
+Healthcare,Healthcare Basics,Course,Coursera,https://www.coursera.org/learn/healthcare-basics,Beginner,4 weeks
+Supply Chain,Supply Chain Management,Course,Coursera,https://www.coursera.org/learn/supply-chain-management,Beginner,4 weeks
+Public Relations,Public Relations Principles,Course,Coursera,https://www.coursera.org/learn/public-relations,Beginner,4 weeks
+AWS,AWS Fundamentals,Course,Coursera,https://www.coursera.org/learn/aws-fundamentals,Intermediate,1 month
+Docker,Docker Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/docker-essential-training-2021,Intermediate,2 hours
+Kubernetes,Kubernetes Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/kubernetes-essential-training-2021,Advanced,3 hours
+Git,Version Control with Git,Course,Coursera,https://www.coursera.org/learn/version-control-with-git,Beginner,1 month
+Tableau,Tableau Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/tableau-essential-training-2021,Intermediate,3 hours
+Power BI,Power BI Essential Training,Course,LinkedIn Learning,https://www.linkedin.com/learning/power-bi-essential-training,Intermediate,2 hours
