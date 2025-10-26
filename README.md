@@ -12,6 +12,12 @@ A machine learning-powered application that recommends job roles based on user s
 - **Career Path Visualization**: Explore progression opportunities
 - **Cross-Industry Transfer**: Discover how your skills transfer to other industries
 
+## 📸 Screenshots
+
+| Dashboard | Job Recommendations |
+|----------------------------------|----------------------|
+| ![upload](image.png)     | ![match](job-preview.png) |
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -110,3 +116,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Thanks to all contributors who have helped build and improve this system
 - Dataset sources and learning platform partners
+
